@@ -1,2 +1,2 @@
 # employe-demo
-This is a smple 
+This is a sample 
